@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522681751 source:c:\users\pengl\documents\codeblockproject\test\main.cpp
+	<iostream>
+	<malloc.h>
+	<string>
+
